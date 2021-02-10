@@ -1,8 +1,0 @@
----
-title: "HelloWorld.md"
-author: "Chris"
-date: "2/10/2021"
-output: github_document
----
-
-## This is an R Markdown File
